@@ -1,2 +1,37 @@
-# QJRtrust_v1_1
-An updated QJRtrust License
+# QJRtrust v1.0
+
+**QJRtrust** is a free license of Q-J-R Products and Tools (Shown at: ./LICENSE)
+
+### Full License text:
+
+```
+QJR TRUST 1.1 License
+
+Copyright (c) 2019-2026 Q-J-R System Development
+
+================================================
+
+1). Permissions
+
+Allowed to:
+ - use
+ - copy
+ - modify
+ - merge
+ - publish
+ - distribute
+ - sublicense
+
+Do not allowed to:
+ - sell
+
+2). Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+
+```
