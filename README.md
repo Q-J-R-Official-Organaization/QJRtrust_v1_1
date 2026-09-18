@@ -1,4 +1,4 @@
-# QJRtrust v1.0
+# QJRtrust v1.1
 
 **QJRtrust** is a free license of Q-J-R Products and Tools (Shown at: ./LICENSE)
 
